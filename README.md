@@ -77,8 +77,7 @@ national-air-quality-data-analysis/
 ├── National_Air_Quality_Analysis.xlsx
 ├── README.md
 ├── dashboard.png
-├── clean_data.png
-└── analysis.png
+
 ```
 
 ---
